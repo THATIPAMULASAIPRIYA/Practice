@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PracticeApplication {
 
 	public static void main(String[] args) {
+//haii
 		SpringApplication.run(PracticeApplication.class, args);
 		System.out.println("Hello");
 	}
