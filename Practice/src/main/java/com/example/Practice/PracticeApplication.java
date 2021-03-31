@@ -10,6 +10,7 @@ public class PracticeApplication {
 //haii
 		SpringApplication.run(PracticeApplication.class, args);
 		System.out.println("Hello");
+		System.out.println("Hai");
 	}
 
 }
